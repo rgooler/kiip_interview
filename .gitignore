@@ -4,6 +4,7 @@ bin
 lib
 include
 pip-selfcheck.json
+services.db
 
 # Mac OS X custom attribute files
 .DS_Store
