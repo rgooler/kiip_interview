@@ -1,3 +1,4 @@
 #!/bin/bash
 virtualenv .
-./bin/activate
+source bin/activate
+pip install flask

@@ -3,6 +3,7 @@
 bin
 lib
 include
+pip-selfcheck.json
 
 # Mac OS X custom attribute files
 .DS_Store
@@ -13,6 +14,7 @@ __pycache__/
 
 # C extensions
 *.so
+.*.sw*
 
 # Distribution / packaging
 .Python
