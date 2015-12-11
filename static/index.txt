@@ -1,0 +1,5 @@
+In order to use this service, please POST json to / in the following format:
+{
+    "ip_address": "10.240.0.34",
+    "role": "web"
+}
