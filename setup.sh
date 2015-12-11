@@ -1,4 +1,4 @@
 #!/bin/bash
 virtualenv .
 source bin/activate
-pip install flask
+pip install -r requirements.txt
